@@ -1,0 +1,41 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Vishnu",
+            "batches": "web-01"
+        },
+        {
+            "id": 2,
+            "name": "Ram",
+            "batches": "web-02"
+        },
+        {
+            "id": 3,
+            "name": "Rocky",
+            "batches": "web-03"
+        },
+        {
+            "id": 4,
+            "name": "Shanky",
+            "batches": "web-20"
+        },
+        {
+            "id": 5,
+            "name": "Binnu",
+            "batches": "web-21"
+        }
+    ],
+    "Teacher": [
+        {
+            "id": 11,
+            "name": "Dinnu",
+            "subject": "Maths"
+        },
+        {
+            "id": 12,
+            "name": "Dongli",
+            "subject": "IT"
+        }
+    ]
+}

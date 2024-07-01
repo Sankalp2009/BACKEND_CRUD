@@ -1,0 +1,3 @@
+* Basically we are doing crud using FS module and yargs library used for cli purpose to parse the  command line arguments
+* In Yargs we get command method from which we should be able to execute the command line arguments and return the result as a string with the command method applied to the command line arguments using handler and FS module
+* It's an easy way to parse the command line arguments and use with argv passed as an argument to the command and extract the data from the command line arguments.
